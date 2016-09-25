@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/nms/nms"
+	$alphatest "0"
+	$translucent "1"
+
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	} 
+}
